@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		8004BFD22C7FC1BF008B7B5D /* MacEnvironmentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8004BFD12C7FC1BF008B7B5D /* MacEnvironmentsApp.swift */; };
 		8004BFD62C7FC1C1008B7B5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8004BFD52C7FC1C1008B7B5D /* Assets.xcassets */; };
-		8004BFDA2C7FC1C1008B7B5D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8004BFD92C7FC1C1008B7B5D /* Preview Assets.xcassets */; };
 		8004BFE22C7FC27B008B7B5D /* IssueReporting in Frameworks */ = {isa = PBXBuildFile; productRef = 8004BFE12C7FC27B008B7B5D /* IssueReporting */; };
 		8004BFEE2C7FC433008B7B5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8004BFED2C7FC433008B7B5D /* Assets.xcassets */; };
 		8004BFF22C7FC433008B7B5D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8004BFF12C7FC433008B7B5D /* Preview Assets.xcassets */; };
@@ -19,6 +18,7 @@
 		8004C00A2C7FC5FC008B7B5D /* MacEnvironmentsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8004BFD12C7FC1BF008B7B5D /* MacEnvironmentsApp.swift */; };
 		8004C00D2C7FC635008B7B5D /* IssueReporting in Frameworks */ = {isa = PBXBuildFile; productRef = 8004C00C2C7FC635008B7B5D /* IssueReporting */; };
 		8004C00F2C7FC63C008B7B5D /* IssueReporting in Frameworks */ = {isa = PBXBuildFile; productRef = 8004C00E2C7FC63C008B7B5D /* IssueReporting */; };
+		800588322CA1CC7100A93795 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8004BFD92C7FC1C1008B7B5D /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -218,7 +218,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1540;
+				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1540;
 				TargetAttributes = {
 					8004BFCD2C7FC1BF008B7B5D = {
@@ -260,7 +260,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8004BFDA2C7FC1C1008B7B5D /* Preview Assets.xcassets in Resources */,
+				800588322CA1CC7100A93795 /* Preview Assets.xcassets in Resources */,
 				8004BFD62C7FC1C1008B7B5D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
